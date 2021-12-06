@@ -1,3 +1,5 @@
+# [CoinEmbed Preview](https://repository-images.githubusercontent.com/435510957/9387fb55-6a64-44f0-9574-aecee2b0e3cb)
+
 # Coin Embed
 
 Use CoinEmbed to create embeddable widgets for easy cryptocurrency payments. CoinEmbed connects directly to Coinbase Commerce, Stripe, or a Nano wallet so all payments come directly to you!

@@ -1,0 +1,1 @@
+<img src="/img/icon.png" style="height:60px; width:60px;" />
